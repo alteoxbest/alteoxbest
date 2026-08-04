@@ -1,12 +1,21 @@
-<!-- HEADER ANIMATION (MATTE DARK SLATE) -->
+<!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=38&fontColor=e6edf3&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=ALTEOXBEST&fontSize=80&fontColor=e6edf3&animation=twinkling&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20System%20Architect&descAlignY=65&descSize=18&descColor=8b949e" width="100%" />
 </div>
 
-<!-- TYPING BADGE HEADER -->
+<!-- ANIMATED WAVE GIF -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=8B949E&center=true&vCenter=true&random=false&width=650&height=45&lines=Full-Stack+%26+Software+Architect;Desktop+Apps+(Electron)+%7C+Mobile+(Android%2FiOS);Python+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Go;Automation+%26+System+Tools+Developer" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="0" height="0" />
+  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="350" />
+</div>
+
+<br />
+
+<!-- PROFILE VIEWS & FOLLOWERS COUNTER -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alteoxbest&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" />
+  <a href="https://github.com/alteoxbest?tab=followers">
+    <img src="https://img.shields.io/github/followers/alteoxbest?style=for-the-badge&color=161b22&labelColor=161b22&label=Followers" />
   </a>
 </div>
 
@@ -18,8 +27,7 @@
 <h2>About Me</h2>
 
 ```javascript
-const developer = {
-    username: 'alteoxbest',
+const alteoxbest = {
     role: 'Full-Stack & Systems Developer',
     coreStack: ['Python', 'JavaScript', 'TypeScript', 'Go'],
     specialties: ['Electron Desktop Apps', 'Android / iOS Apps', 'REST APIs', 'Bot Automation'],
@@ -34,6 +42,9 @@ const developer = {
 * **Systems**: HWID validation, licensing systems & VDS hosting solutions.
 
 <br />
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- SNAKE GAME CONTRIBUTION GRAPH -->
 <h2>Contribution Graph</h2>
@@ -51,6 +62,9 @@ const developer = {
 </div>
 
 <br />
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- TECH STACK & SKILLS -->
 <h2>Technologies & Tools</h2>
@@ -98,7 +112,10 @@ const developer = {
 
 <br />
 
-<!-- GITHUB STATS CARDS (GITHUB DARK THEME) -->
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- GITHUB STATS CARDS -->
 <h2>Statistics</h2>
 
 <div align="center">
@@ -114,14 +131,22 @@ const developer = {
 
 <br />
 
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alteoxbest&theme=github-dark&hide_border=true&area=true&area_color=58a6ff" alt="Activity Graph" width="100%" />
+</div>
+
+<br />
+
 <!-- TROPHIES -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alteoxbest&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
-<hr />
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
 </div>
