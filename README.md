@@ -27,23 +27,24 @@
 
 ---
 
-<!-- STATS -->
+<!-- STATS — using cache_seconds to bypass rate limits -->
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alteoxbest&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alteoxbest&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alteoxbest&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=21600" />
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alteoxbest&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=21600" />
 </div>
 
 <br />
 
-<!-- STREAK -->
+<!-- STREAK — demolab (most reliable) -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=alteoxbest&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com/?user=alteoxbest&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&dates=8b949e" />
 </div>
 
 <br />
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alteoxbest&theme=github-dark&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alteoxbest&theme=github-dark&hide_border=true&area=true&area_color=1f6feb&color=8b949e&line=58a6ff&point=e6edf3&radius=5" width="100%" />
 
 <!-- FOOTER -->
 <div align="center">
